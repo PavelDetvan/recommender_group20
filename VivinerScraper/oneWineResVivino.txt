@@ -1,0 +1,270 @@
+{
+  "id": 7218724,
+  "name": "Intenso Merlot",
+  "seo_name": "intenso-merlot",
+  "type_id": 1,
+  "vintage_type": 0,
+  "is_natural": false,
+  "region": {
+    "id": 1465,
+    "name": "Serra Gaúcha",
+    "name_en": "",
+    "seo_name": "serra-gaucha",
+    "country": {
+      "code": "br",
+      "name": "Brazilië",
+      "native_name": "Brasil",
+      "seo_name": "brazil",
+      "currency": {
+        "code": "BRL",
+        "name": "Brazil Reais",
+        "prefix": "R$",
+        "suffix": null
+      },
+      "regions_count": 25,
+      "users_count": 4809911,
+      "wines_count": 14385,
+      "wineries_count": 1735,
+      "most_used_grapes": [
+        {
+          "id": 2,
+          "name": "Cabernet Sauvignon",
+          "seo_name": "cabernet-sauvignon",
+          "has_detailed_info": true,
+          "wines_count": 801751,
+          "parent_grape_id": null
+        },
+        {
+          "id": 10,
+          "name": "Merlot",
+          "seo_name": "merlot",
+          "has_detailed_info": true,
+          "wines_count": 566719,
+          "parent_grape_id": null
+        },
+        {
+          "id": 5,
+          "name": "Chardonnay",
+          "seo_name": "chardonnay",
+          "has_detailed_info": true,
+          "wines_count": 604208,
+          "parent_grape_id": null
+        }
+      ]
+    }
+  },
+  "class": {
+    "typecast_map": {
+      "background_image": {},
+      "class": {},
+      "location": {}
+    }
+  },
+  "winery": {
+    "id": 12884,
+    "name": "Salton",
+    "seo_name": "salton",
+    "status": 0,
+    "background_image": null
+  },
+  "taste": {
+    "structure": {
+      "acidity": 2.9950604,
+      "fizziness": null,
+      "intensity": 3.3301418,
+      "sweetness": 2.2548292,
+      "tannin": 3.0202997,
+      "user_structure_count": 126,
+      "calculated_structure_count": 2
+    },
+    "flavor": [
+      {
+        "group": "black_fruit",
+        "stats": {
+          "count": 8,
+          "score": 998
+        },
+        "primary_keywords": [
+          { "id": 49, "name": "braambes", "count": 3 },
+          { "id": 55, "name": "bosbes", "count": 2 },
+          { "id": 334, "name": "pruim", "count": 2 },
+          { "id": 470, "name": "cassis", "count": 2 },
+          { "id": 38, "name": "zwarte kers", "count": 1 }
+        ],
+        "secondary_keywords": [
+          { "id": 341, "name": "gedroogde pruim", "count": 1 }
+        ]
+      },
+      {
+        "group": "red_fruit",
+        "stats": {
+          "count": 6,
+          "score": 913
+        },
+        "primary_keywords": [
+          { "id": 354, "name": "rood fruit", "count": 4 },
+          { "id": 348, "name": "framboos", "count": 3 },
+          { "id": 93, "name": "kers", "count": 1 },
+          { "id": 352, "name": "rode kers", "count": 1 }
+        ],
+        "secondary_keywords": [
+          { "id": 38, "name": "zwarte kers", "count": 1 }
+        ]
+      },
+      {
+        "group": "spices",
+        "stats": {
+          "count": 4,
+          "score": 118
+        },
+        "primary_keywords": [
+          { "id": 320, "name": "peper", "count": 1 }
+        ],
+        "secondary_keywords": [
+          { "id": 434, "name": "vanille", "count": 3 }
+        ]
+      },
+      {
+        "group": "oak",
+        "stats": {
+          "count": 4,
+          "score": 655
+        },
+        "primary_keywords": [
+          { "id": 434, "name": "vanille", "count": 3 },
+          { "id": 292, "name": "eiken", "count": 3 },
+          { "id": 101, "name": "chocolade", "count": 1 }
+        ]
+      },
+      {
+        "group": "floral",
+        "stats": {
+          "count": 3,
+          "score": 300
+        },
+        "primary_keywords": [
+          { "id": 436, "name": "viooltje", "count": 2 },
+          { "id": 10, "name": "appelbloesem", "count": 1 }
+        ]
+      },
+      {
+        "group": "non_oak",
+        "stats": {
+          "count": 3,
+          "score": 27
+        },
+        "secondary_keywords": [
+          { "id": 434, "name": "vanille", "count": 3 }
+        ]
+      },
+      {
+        "group": "dried_fruit",
+        "stats": {
+          "count": 1,
+          "score": 89
+        },
+        "primary_keywords": [
+          { "id": 341, "name": "gedroogde pruim", "count": 1 }
+        ]
+      },
+      {
+        "group": "tree_fruit",
+        "stats": {
+          "count": 1,
+          "score": 200
+        },
+        "primary_keywords": [
+          { "id": 9, "name": "appel", "count": 1 },
+          { "id": 315, "name": "peer", "count": 1 }
+        ]
+      },
+      {
+        "group": "vegetal",
+        "stats": {
+          "count": 1,
+          "score": 100
+        },
+        "primary_keywords": [
+          { "id": 193, "name": "gras", "count": 1 }
+        ]
+      },
+      {
+        "group": "earth",
+        "stats": {
+          "count": 1,
+          "score": 100
+        },
+        "primary_keywords": [
+          { "id": 207, "name": "gegrild vlees", "count": 1 }
+        ]
+      },
+      {
+        "group": "microbio",
+        "stats": {
+          "count": 1,
+          "score": 100
+        },
+        "primary_keywords": [
+          { "id": 91, "name": "kaas", "count": 1 }
+        ]
+      }
+    ]
+  },
+  "statistics": null,
+  "style": {
+    "id": 110,
+    "seo_name": "brazilian-merlot",
+    "regional_name": "Braziliaans",
+    "varietal_name": "Merlot",
+    "name": "Braziliaanse Merlot",
+    "background_image": null,
+    "image": null,
+    "description": null,
+    "blurb": null,
+    "interesting_facts": null,
+    "body": 4,
+    "body_description": "Zeer full-bodied",
+    "acidity": 1,
+    "acidity_description": "Laag",
+    "country": {
+      "code": "br",
+      "name": "Brazilië",
+      "native_name": "Brasil",
+      "seo_name": "brazil",
+      "currency": {
+        "code": "BRL",
+        "name": "Brazil Reais",
+        "prefix": "R$",
+        "suffix": null
+      },
+      "regions_count": 25,
+      "users_count": 4809911,
+      "wines_count": 14385,
+      "wineries_count": 1735,
+      "most_used_grapes": [
+        {
+          "id": 2,
+          "name": "Cabernet Sauvignon",
+          "seo_name": "cabernet-sauvignon",
+          "has_detailed_info": true,
+          "wines_count": 801751,
+          "parent_grape_id": null
+        },
+        {
+          "id": 10,
+          "name": "Merlot",
+          "seo_name": "merlot",
+          "has_detailed_info": true,
+          "wines_count": 566719,
+          "parent_grape_id": null
+        },
+        {
+          "id": 5,
+          "name": "Chardonnay",
+          "seo_name": "chardonnay",
+          "has_detailed_info": true,
+          "wines_count": 604208,
+          "parent_grape_id": null
+        }
+      ]
+    }
