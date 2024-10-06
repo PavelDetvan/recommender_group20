@@ -7,3 +7,11 @@
 *.zip
 
 daisy/
+
+combined_glove_oov_embeddings.pkl
+
+corpus.json
+
+glove.6B.100d.txt
+
+glove.6B.100d.word2vec.txt
